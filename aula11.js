@@ -1,7 +1,7 @@
-let firstname  = prompt("firstname")
-let lastname   = prompt("lastname")
-let studyfield = prompt("studyfield")
-let yearofbirth   = prompt("year of birth")
+let firstname   = prompt("firstname")
+let lastname    = prompt("lastname")
+let studyfield  = prompt("studyfield")
+let yearofbirth = prompt("year of birth")
 
 age = (yearofbirth - 2023) * -1
 
